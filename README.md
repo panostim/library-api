@@ -1,6 +1,6 @@
 # project-api-testing
 
-A minimal Django API that exposes a single endpoint for listing books in a library.
+A Django API that exposes an endpoint for listing books in a library.
 
 ## Setup
 
